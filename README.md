@@ -18,7 +18,7 @@ This project replicates the basic layout and features of YouTube, focusing on **
 
 ---
 ## Live Demo
-Check the live app here: https://ankam-ui.github.io/youtube-ui-clone/
+Check the live app here: https://ankammaraodev.github.io/youtube-ui-clone/
 
 ---
 
@@ -51,7 +51,7 @@ youtube-ui-clone/
 ## 💡 How to Use
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/ankam-ui/youtube-ui-clone.git
+   git clone https://github.com/AnkammaraoDev/youtube-ui-clone
 
 
 Open index.html in your browser.
